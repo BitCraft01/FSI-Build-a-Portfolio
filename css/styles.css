@@ -1,4 +1,16 @@
 img{
     border-radius: 5px;
+    border-style: solid;
+    border-color:blue
     
+}
+h3{
+    background-color: aquamarine;
+    border-style: solid;
+    border-color: black;
+}
+h1{
+    background-color:gold;
+    border-left-style: solid;
+    border-left-color: darkgreen;
 }
